@@ -1,0 +1,13 @@
+/home/darley/Documentos/fatorial/bin/Debug/netcoreapp3.1/fatorial
+/home/darley/Documentos/fatorial/bin/Debug/netcoreapp3.1/fatorial.deps.json
+/home/darley/Documentos/fatorial/bin/Debug/netcoreapp3.1/fatorial.runtimeconfig.json
+/home/darley/Documentos/fatorial/bin/Debug/netcoreapp3.1/fatorial.runtimeconfig.dev.json
+/home/darley/Documentos/fatorial/bin/Debug/netcoreapp3.1/fatorial.dll
+/home/darley/Documentos/fatorial/bin/Debug/netcoreapp3.1/fatorial.pdb
+/home/darley/Documentos/fatorial/obj/Debug/netcoreapp3.1/fatorial.csprojAssemblyReference.cache
+/home/darley/Documentos/fatorial/obj/Debug/netcoreapp3.1/fatorial.AssemblyInfoInputs.cache
+/home/darley/Documentos/fatorial/obj/Debug/netcoreapp3.1/fatorial.AssemblyInfo.cs
+/home/darley/Documentos/fatorial/obj/Debug/netcoreapp3.1/fatorial.csproj.CoreCompileInputs.cache
+/home/darley/Documentos/fatorial/obj/Debug/netcoreapp3.1/fatorial.dll
+/home/darley/Documentos/fatorial/obj/Debug/netcoreapp3.1/fatorial.pdb
+/home/darley/Documentos/fatorial/obj/Debug/netcoreapp3.1/fatorial.genruntimeconfig.cache
